@@ -1,0 +1,15 @@
+{
+  "name": "HomeSenseServer",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Vlad Kosarev",
+  "dependencies": {
+    "body-parser": "^1.10.0",
+    "express": "^4.10.6",
+    "lodash": "^2.4.1",
+    "socket.io": "^1.2.1"
+  },
+  "engine": {
+    "node": ">=0.6"
+  }
+}
